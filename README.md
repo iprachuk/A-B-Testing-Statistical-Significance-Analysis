@@ -29,8 +29,10 @@
 Significance_tools/
 ├── README.md                      # Цей файл
 ├── Significance_tools.ipynb       # Jupyter Notebook з A/B тестуванням
-└── AB_testing_tool.csv           # Експортовані результати аналізу
+└── AB_testing_tool_file        # Експортовані результати аналізу
+    └── AB_testing_tool.csv
 ```
+
 
 ## 📈 Основні етапи аналізу
 
